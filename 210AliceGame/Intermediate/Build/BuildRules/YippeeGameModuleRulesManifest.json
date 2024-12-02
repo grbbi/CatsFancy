@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\fruit\\Downloads\\school\\visdev\\210\\interactive narrative\\210AliceGame\\210InteractiveNarrative\\210AliceGame\\Intermediate\\Source\\YippeeGame.Build.cs",
+		"C:\\Users\\fruit\\Downloads\\school\\visdev\\210\\interactive narrative\\210AliceGame\\210InteractiveNarrative\\210AliceGame\\Intermediate\\Source\\YippeeGame.Target.cs",
+		"C:\\Users\\fruit\\Downloads\\school\\visdev\\210\\interactive narrative\\210AliceGame\\210InteractiveNarrative\\210AliceGame\\Intermediate\\Source\\YippeeGameClient.Target.cs",
+		"C:\\Users\\fruit\\Downloads\\school\\visdev\\210\\interactive narrative\\210AliceGame\\210InteractiveNarrative\\210AliceGame\\Intermediate\\Source\\YippeeGameEditor.Target.cs",
+		"C:\\Users\\fruit\\Downloads\\school\\visdev\\210\\interactive narrative\\210AliceGame\\210InteractiveNarrative\\210AliceGame\\Intermediate\\Source\\YippeeGameServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
